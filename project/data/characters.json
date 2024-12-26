@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Harry Potter",
+      "age": 17,
+      "occupation": "Wizard",
+      "photo":  "https://img.championat.com/s/732x488/news/big/r/d/garri-potter-stanet-serialom-i-eto-prekrasno_16812969031466847695.jpg"
+    },
+    {
+      "name": "Tony Stark",
+      "age": 48,
+      "occupation": "Engineer",
+      "photo": "https://scarfilm.org/wp-content/uploads/2019/07/42341_5785.jpg"
+    },
+    {
+      "name": "Naruto Uzumaki",
+      "age": 16,
+      "occupation": "Ninja",
+      "photo": "https://cdn.7days.ru/pic/d24/964850/1340656/76.jpg"
+    }
+  ]
+  
